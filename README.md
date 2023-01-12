@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p  align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=jinbao-gwang.jinbaowang" alt="visitor badge"/>
+</p>
+
 <!--
 **jinbao-wang/jinbao-wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
