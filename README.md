@@ -19,6 +19,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![jinbao-wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinbao-wang&show_icons=true&theme=tokyonight) -->
-
-<!-- [![jinbao-wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinbao-wang)](https://github.com/anuraghazra/github-readme-stats) -->
