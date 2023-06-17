@@ -5,7 +5,7 @@ My homepage: [https://jinbao-wang.github.io](https://jinbao-wang.github.io).
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=jinbao-wang.jinbaowang" alt="visitor badge"/>
 </p>
-
+![](https://visitor-badge.glitch.me/badge?page_id=jinbao-wang.readme)
 
 <!--
 **jinbao-wang/jinbao-wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
