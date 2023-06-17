@@ -3,7 +3,7 @@
 My homepage: [https://jinbao-wang.github.io](https://jinbao-wang.github.io).
 
 <p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=jinbao-wang.jinbao-wang" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=jinbao-wang" alt="visitor badge"/>
 </p>
 
 
