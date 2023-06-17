@@ -1,9 +1,9 @@
 ### Nice to meet you! 
 
-Welcome to my homepage: [https://jinbao-wang.github.io](https://jinbao-wang.github.io).
+My homepage: [https://jinbao-wang.github.io](https://jinbao-wang.github.io).
 
 <p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=jinbao-gwang.jinbaowang" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=jinbao-wang.jinbaowang" alt="visitor badge"/>
 </p>
 
 
